@@ -1,0 +1,7 @@
+name = "townle-workers"
+main = "src/index.js"
+compatibility_date = "2022-06-05"
+
+kv_namespaces = [
+  { binding = "TOWNS_KV", id = "15aae0b02c4d4ea59bf95bb67db414d6", preview_id = "3728ffb62cac4c8298487bcbd1ed773c" }
+]
